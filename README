@@ -17,7 +17,7 @@ Get guile 2.x: http://gnu.org/s/guile
 
 Then get and install guildhall:
 
-    git clone git@github.com/ijp/guildhall.git
+    git clone git@github.com:ijp/guildhall.git
     cd guildhall
     ./autogen.sh && ./configure --prefix /usr && make
     sudo make install
